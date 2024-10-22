@@ -2,6 +2,8 @@
 
 This repository is maintained by the Fail Team, which includes Abdirakhman Onabek, Daniil Filimonov, and Kir Smolyarchuk. It is structured as a ROS (Robot Operating System) workspace.
 
+Youtube link for video explanation: https://www.youtube.com/watch?v=O9ylnICon6Y
+
 ## Project Overview
 
 The project aims to develop and test various robotics-related software components using ROS.
