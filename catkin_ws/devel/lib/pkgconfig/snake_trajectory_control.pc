@@ -1,0 +1,8 @@
+prefix=/home/kir/catkin_ws/devel
+
+Name: snake_trajectory_control
+Description: Description of snake_trajectory_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+dynamixel_motor/dynamixel_controllers:dynamixel_motor/dynamixel_driver:dynamixel_motor/dynamixel_motor:dynamixel_motor/dynamixel_msgs:dynamixel_motor/dynamixel_tutorials:snake-noetic/gazebo_robot:snake-noetic/move:snake-noetic/moveit_arm:snake-noetic/my_dynamixel_tutorial:snake-noetic/robot_control:snake-noetic/robot_description:snake_control2:snake_trajectory_control
+-DCATKIN_DEVEL_PREFIX=/home/kir/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kir/catkin_ws/install -G Unix Makefiles

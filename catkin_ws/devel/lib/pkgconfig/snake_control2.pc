@@ -1,0 +1,8 @@
+prefix=/home/kir/catkin_ws/devel
+
+Name: snake_control2
+Description: Description of snake_control2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
