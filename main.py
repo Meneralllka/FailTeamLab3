@@ -8,11 +8,11 @@ time = np.linspace(0, t_f, t_f * timesteps_per_second)
 
 # Given constants for boundary conditions
 theta_0 = 0
-theta_f = 160
+theta_f = 260
 theta_dot_0 = 0
-theta_dot_f = 0
+theta_dot_f = 50
 theta_dotdot_0 = 0
-theta_dotdot_f = 0
+theta_dotdot_f = 20
 
 # Coefficients for the matrix
 a1 = t_f**3

@@ -7,12 +7,12 @@ l2 = 14.2
 l3 = 4.5  # Length of the third link
 
 # Joint angle limitations (degrees)
-theta1_min = -15
-theta1_max = 135
-theta2_min = -135
-theta2_max = 135
-theta3_min = -135
-theta3_max = 135
+theta1_min = -160
+theta1_max = 160
+theta2_min = -90
+theta2_max = 90
+theta3_min = -30
+theta3_max = 30
 
 # Create arrays of joint angles with one-degree increments
 theta1_array = np.deg2rad(np.arange(theta1_min, theta1_max + 1, 2))

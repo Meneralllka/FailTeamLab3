@@ -58,7 +58,7 @@ theta_desired = 90 * np.pi / 180  # Desired orientation in radians
 theta_f = list(inverse_kinematics(x_desired, y_desired, theta_desired, *link_lengths))  # Final joint angles
 
 # Number of via points (you can change this value)
-num_via_points = 4  # Number of via points along the line
+num_via_points = 6  # Number of via points along the line
 
 # Generate via points along the straight line between initial and desired positions
 total_points = num_via_points + 2  # Including initial and final points
